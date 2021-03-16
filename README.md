@@ -2,7 +2,7 @@
 
 **Rickirick4/Rickirick4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Fatmats&show_icons=true&theme=gotham)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Rickirick4&show_icons=true&theme=gotham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
