@@ -2,7 +2,8 @@
 
 **Rickirick4/Rickirick4** 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickirick4&show_icons=true&theme=tokyonight)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickirick4&show_icons=true&theme=tokyonight)
+-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickirick4&layout=layout)](https://github.com/anuraghazra/github-readme-stats)
